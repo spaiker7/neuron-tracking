@@ -10,6 +10,13 @@ The images from the confocal microscope have 3 sources, in this case recorded at
 
 ### Neurons bodies detection
 
+- Normalizing scale (intensity) of the channel
+- Denoizing + adaptive threshold
+- Morphology playing
+- Watershed segmentation of clumped cells
+- Mask extraction
 
-![Initial frame of neurons](https://user-images.githubusercontent.com/70488161/209572605-7a19b012-fd33-454c-96c7-0f0f513b40fd.png)
+
+![Initial frame of neurons](https://user-images.githubusercontent.com/70488161/209572605-7a19b012-fd33-454c-96c7-0f0f513b40fd.png) ![Mask](https://user-images.githubusercontent.com/70488161/209572705-83ef2d64-4c40-4962-9b94-4d91a6c6f17a.png)
+
 
