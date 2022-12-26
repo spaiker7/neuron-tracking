@@ -27,8 +27,7 @@ The images from the confocal microscope have 3 sources, in this case recorded at
 
 The further problem has the Object Tracking Open CV realization that uses previuos frame in video where the obect has moved. From each cell contour we extracted the bounding boxes and trained the Boosting MultiTracker.
 
-![cells](https://user-images.githubusercontent.com/70488161/209574723-af2bd201-01cb-45a4-8b9a-0cf646fae374.gif) ![tracked cells](https://user-images.githubusercontent.com/70488161/209574736-4eb88bc5-8a79-42c9-b988-27e8abb3f431.gif)
-
+![tracked cells](https://user-images.githubusercontent.com/70488161/209574736-4eb88bc5-8a79-42c9-b988-27e8abb3f431.gif)
 
 
 
